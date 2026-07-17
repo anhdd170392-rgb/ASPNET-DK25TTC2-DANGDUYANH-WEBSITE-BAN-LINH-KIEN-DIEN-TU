@@ -6,7 +6,7 @@
 
 ## 1. Giới thiệu
 
-**ALMOND** là website thương mại điện tử mô phỏng cửa hàng bán linh kiện điện tử (điện trở, tụ điện, cuộn cảm, cáp, linh kiện máy tính,...). Hệ thống gồm hai phần chính:
+** ** là website thương mại điện tử mô phỏng cửa hàng bán linh kiện điện tử (điện trở, tụ điện, cuộn cảm, cáp, linh kiện máy tính,...). Hệ thống gồm hai phần chính:
 
 - **Front-end (Khách hàng):** Duyệt sản phẩm, tìm kiếm, sắp xếp theo giá/ngày, xem chi tiết, thêm vào giỏ hàng, áp dụng mã giảm giá, đặt hàng, thanh toán (tiền mặt / chuyển khoản / ví điện tử VNPay), quản lý tài khoản, lịch sử đơn hàng, yêu thích.
 - **Back-end (Admin):** Quản lý sản phẩm, danh mục, nhà cung cấp, đơn hàng, khuyến mãi, phiếu nhập hàng, báo cáo doanh thu (ngày/tháng/theo loại), tồn kho, top sản phẩm, top khách hàng, công nợ, nhật ký bán hàng, backup/restore database.
@@ -453,4 +453,4 @@ Server=.\SQLEXPRESS;Database=WebDienTu;User Id=sa;Password=your_password
 
 ---
 
-**Đồ án Lập trình Web** — Website bán linh kiện điện tử ALMOND
+**Đồ án Lập trình Web** — Website bán linh kiện điện tử  
