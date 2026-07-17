@@ -1,4 +1,4 @@
-# ALMOND - Website Bán Linh Kiện Điện Tử
+# Website Bán Linh Kiện Điện Tử
 
 Đồ án môn **Lập trình Web** — Xây dựng website thương mại điện tử bán linh kiện điện tử với đầy đủ tính năng: quản lý sản phẩm, giỏ hàng, đặt hàng, thanh toán trực tuyến, khuyến mãi, báo cáo thống kê và phân quyền người dùng.
 
